@@ -4,7 +4,7 @@ This software is by no means my (Marcel Maatkamp) software and all contributions
 ```
 docker run -ti -d --name ai-duet -p 8080:8080 marcelmaatkamp/aiexperiments-ai-duet
 ```
-and point the browser to http://localhost:8080/
+and point the browser to [http://localhost:8080](http://localhost:8080)
 
 ## A.I. Duet
 Trade melodies with a neural network.
