@@ -1,3 +1,11 @@
+## Remarks
+
+This software is by no means my (Marcel Maatkamp) software and all contributions go to [Yotam Mann](https://github.com/tambien). I needed to fork this in order to let https://hub.docker.com build and deploy it which can now be run by simpy issuing the following command:
+```
+docker run -ti -d --name ai-duet -p 8080:8080 marcelmaatkamp/aiexperiments-ai-duet
+```
+and point the browser to http://localhost:8080/
+
 ## A.I. Duet
 Trade melodies with a neural network.
 
